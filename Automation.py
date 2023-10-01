@@ -74,5 +74,3 @@ for linha in tabela.index:
     pyautogui.press("enter")
 
     pyautogui.scroll(1000)
-    
-enviar_email()
